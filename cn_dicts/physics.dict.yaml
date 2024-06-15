@@ -1,9 +1,8 @@
 ---
 name: physics
-versions: "1"
+version: "1"
 sort: by_weight
 ...
-
 阿贝不变量	a bei bu bian liang	1
 阿贝成象原理	a bei cheng xiang yuan li	1
 阿贝尔定理	a bei er ding li	1
